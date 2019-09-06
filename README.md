@@ -6,4 +6,5 @@ fazendo modificações com o brach pra não dar merda
 
 Alterações como eu quero
 
-criando conflito pra ver o circo pegando fogo
+
+criando conflito pra ver o circo pegando fogo no master e no meu-novissimo-branch
