@@ -3,3 +3,5 @@
 finalmente as coisas estão se conectando.
 
 fazendo modificações com o brach pra não dar merda
+
+Alterações como eu quero
